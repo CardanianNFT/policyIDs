@@ -22,7 +22,8 @@ Single Project:
     "project": "PlanetPalz",
     "policies": [
         "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
+        "8aae5b74fb6f66755911200634427ea484bfd2bd313db30a37e96c7b"
     ]
 }
 ```
